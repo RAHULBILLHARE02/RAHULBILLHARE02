@@ -33,8 +33,10 @@ Projects
 - Advanced SQL queries
 - Power BI DAX functions
 
- 📂 All my projects are available at
-- https://github.com/RAHULBILLHARE02
+ 📂 projects files :
+- sales_Dashboards.pbix :https://github.com/RAHULBILLHARE02/RAHULBILLHARE02/blob/main/sales_dashboard.pbix
+- sales_clean.csv :https://github.com/RAHULBILLHARE02/RAHULBILLHARE02/blob/main/sales_clean.csv
+
 
  📫 How to reach me
 - Email: rahulbillharepatil0202@gmail.com
