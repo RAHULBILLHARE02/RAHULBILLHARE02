@@ -36,6 +36,7 @@ Projects
  📂 projects files :
 - sales_Dashboards.pbix :https://github.com/RAHULBILLHARE02/RAHULBILLHARE02/blob/main/sales_dashboard.pbix
 - sales_clean.csv :https://github.com/RAHULBILLHARE02/RAHULBILLHARE02/blob/main/sales_clean.csv
+- Dashboard_preview.png:https://github.com/RAHULBILLHARE02/RAHULBILLHARE02/blob/main/Dashboard_preview.png
 
 
  📫 How to reach me
