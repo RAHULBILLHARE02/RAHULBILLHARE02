@@ -25,8 +25,19 @@ Projects
 - Designed Power BI dashboards to analyze product performance and outlet efficiency  
 - Used Power Query and DAX for data modeling and insights  
 
+---
+ 🔭 I’m currently working on
+- Sales Performance Analysis using Python, SQL, and Power BI
 
- Contact
-📧 Email: rahulbillharepatil0202@gmail.com
-🔗 GitHub: https://github.com/RAHULBILLHARE02
+ 🌱 I’m currently learning
+- Advanced SQL queries
+- Power BI DAX functions
+
+ 📂 All my projects are available at
+- https://github.com/RAHULBILLHARE02
+
+ 📫 How to reach me
+- Email: rahulbillharepatil0202@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rahulbillhare02
+
 
