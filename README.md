@@ -1,19 +1,19 @@
  👋 Hi, I’m Rahul
 
- Summary
+ Summary:
 Entry-level Data Analyst with hands-on experience in Python, SQL, Power BI, and Excel. Skilled in cleaning, analyzing, and visualizing data to deliver actionable business insights
 
- Objective
+ Objective:
 To start my career as a Data Analyst where I can apply my analytical skills, SQL querying, and dashboarding expertise to support data-driven decision-making.
 
- Skills
+ Skills:
 - Python: Pandas, NumPy, data cleaning, data transformation  
 - SQL: PostgreSQL, MySQL, joins, aggregations, filtering  
 - Power BI: Dashboards, DAX, Power Query, KPIs, slicers  
 - Excel: Pivot Tables, VLOOKUP/XLOOKUP, Power Query, charts  
 
 
-Projects
+Projects:
 
  📊 Sales Data Analysis (Python | SQL | Power BI)
 - Cleaned and transformed raw sales data using Pandas  
@@ -21,15 +21,15 @@ Projects
 - Built interactive Power BI dashboards to analyze sales performance  
 
 
-📈 Blinkit Sales Performance Dashboard (Power BI)
+📈 Blinkit Sales Performance Dashboard (Power BI):
 - Designed Power BI dashboards to analyze product performance and outlet efficiency  
 - Used Power Query and DAX for data modeling and insights  
 
 ---
- 🔭 I’m currently working on
+ 🔭 I’m currently working on:
 - Sales Performance Analysis using Python, SQL, and Power BI
 
- 🌱 I’m currently learning
+ 🌱 I’m currently learning:
 - Advanced SQL queries
 - Power BI DAX functions
 
@@ -39,7 +39,7 @@ Projects
 - Dashboard_preview.png:https://github.com/RAHULBILLHARE02/RAHULBILLHARE02/blob/main/Dashboard_preview.png
 
 
- 📫 How to reach me
+ 📫 How to reach me:
 - Email: rahulbillharepatil0202@gmail.com
 - LinkedIn: https://www.linkedin.com/in/rahulbillhare02
 
