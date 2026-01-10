@@ -37,6 +37,8 @@ Projects :
 - sales_Dashboards.pbix :https://github.com/RAHULBILLHARE02/RAHULBILLHARE02/blob/main/sales_dashboard.pbix
 - sales_clean.csv :https://github.com/RAHULBILLHARE02/RAHULBILLHARE02/blob/main/sales_clean.csv
 - Dashboard_preview.png:https://github.com/RAHULBILLHARE02/RAHULBILLHARE02/blob/main/Dashboard_preview.png
+- bilnkit dashboard_preview :https://github.com/RAHULBILLHARE02/RAHULBILLHARE02/blob/main/blinkit%20dashboard_%20preview.png
+-blinkit project https://github.com/RAHULBILLHARE02/RAHULBILLHARE02/blob/main/blinkit%20project%20power%20bi.pbix
 
 
  📫 How to reach me :
